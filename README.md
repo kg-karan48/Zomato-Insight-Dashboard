@@ -64,5 +64,5 @@ Cuisine Popularity Chart	Bar chart highlighting the most popular cuisines.	Cuisi
 #Repository Structure
 
 Datasets = https://github.com/kg-karan48/Zomato-Insight-Dashboard/blob/main/Zomato%20Dataset.xlsx </br>
-Dashboard =
+Dashboard = https://github.com/kg-karan48/Zomato-Insight-Dashboard/blob/main/Zomato%20Insight%20Dashboard.pbit </br>
 Screenshot = 
