@@ -60,3 +60,9 @@ Cuisine Popularity Chart	Bar chart highlighting the most popular cuisines.	Cuisi
 - Operations Team: Monitor delivery efficiency.
 - Marketing Team: Understand customer preferences and trends.
 - Restaurant Owners: Track performance and customer feedback.
+
+#Repository Structure
+
+Datasets = 
+Dashboard =
+Screenshot = 
